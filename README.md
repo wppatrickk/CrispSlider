@@ -1,10 +1,10 @@
 <h1>Crisp Slider</h1>
 
-<b>Requires at least:</b> 4.6<br>
-<b>Tested up to:</b> 4.7<br>
+<b>Requires at least:</b> 4.3<br>
+<b>Tested up to:</b> 4.8.1<br>
 <b>Stable tag:</b> 1.0<br>
-<b>License:</b> GPLv2 or later<br>
-<b>License URI:</b> http://www.gnu.org/licenses/gpl-2.0.html
+<b>License:</b> GPLv3 or later<br>
+<b>License URI:</b> http://www.gnu.org/licenses/gpl-3.0.html
 
 <h2>Description</h2>
 

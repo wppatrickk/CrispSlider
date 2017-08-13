@@ -2,10 +2,10 @@
 Contributors: wppatrickk
 Tags: banner rotator, carousel, gallery, image slider, responsive slider, showcase, slideshow, swipe, touch slider, SEO, vertical slide, HTML5 slider, hardware accelerate, best slider, animation, mobile slider, iOS, android, video slider, youtube slider, horizontal slider, vertical slider, photo slider, online album, mobile slider, WordPress slider, wpml, portfolio, gallery
 Requires at least: 4.0
-Tested up to: 4.7
+Tested up to: 4.8.1
 Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
